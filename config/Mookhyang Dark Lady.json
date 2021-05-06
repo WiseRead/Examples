@@ -1,0 +1,66 @@
+{
+  "title": "Mookhyang - Dark Lady",
+  "description": "As the master of the School of Unholy Arts and as the undefeated Unmasked Demon.\nMookHyang unfortunately falls to a strange fantasy world by the magic of his enemies.\nIn the new world of elf, sorcerer, knight, and dragon.\nMookHyang’s adventure of finding a way back to his old world unfolds.",
+  "artist": "Jae-Heon Lee",
+  "author": "Dong-Jo Jeon",
+  "cover": "https://media.kitsu.io/manga/poster_images/54882/large.jpg",
+  "wiseread_settings": {
+    "chapter_title": "Mookhyang - Dark Lady Ch${ number }"
+  },
+  "chapters": {
+    "0": {
+      "title": "Prologue",
+      "wiseread": {
+        "direct": "https://www.dropbox.com/s/wmo54074hfdmlx7/Chapter%200_%20Prologue.cbz?dl=0"
+      },
+      "groups": {
+        "LeviatanScans": "/proxy/api/imgur/chapter/IjIAHig/"
+      }
+    },
+    "1": {
+      "title": "",
+      "wiseread": {
+        "direct": "https://www.dropbox.com/s/7z55v3yzhilfmef/Chapter%201.cbz?dl=0"
+      },
+      "groups": {
+        "LeviatanScans": "/proxy/api/imgur/chapter/rf5D5Go/"
+      }
+    },
+    "2": {
+      "title": "",
+      "wiseread": {
+        "direct": "https://www.dropbox.com/s/6545o55vbq140i6/Chapter%202.cbz?dl=0"
+      },
+      "groups": {
+        "LeviatanScans": "/proxy/api/imgur/chapter/xHP68IP/"
+      }
+    },
+    "3": {
+      "title": "",
+      "wiseread": {
+        "direct": "https://www.dropbox.com/s/84t0hkd7p2ys6xy/Chapter%203.cbz?dl=0"
+      },
+      "groups": {
+        "LeviatanScans": "/proxy/api/imgur/chapter/P1J9YFV/"
+      }
+    },
+    "4": {
+      "title": "",
+      "wiseread": {
+        "direct": "https://www.dropbox.com/s/t0hvmng4svf40w3/Chapter%204.cbz?dl=0"
+      },
+      "groups": {
+        "LeviatanScans": "/proxy/api/imgur/chapter/yXXJQp3/"
+      }
+    },
+    "5": {
+      "title": "",
+      "wiseread": {
+        "direct": "https://www.dropbox.com/s/ofyutc8ls3hmyy6/Chapter%205.cbz?dl=0"
+      },
+      "groups": {
+        "LeviatanScans": "/proxy/api/imgur/chapter/ikWEm9z/"
+      }
+    }
+  }
+}
