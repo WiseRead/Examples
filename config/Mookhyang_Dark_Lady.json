@@ -5,7 +5,7 @@
   "author": "Dong-Jo Jeon",
   "cover": "https://media.kitsu.io/manga/poster_images/54882/large.jpg",
   "wiseread_settings": {
-    "chapter_title": "Mookhyang - Dark Lady Ch${ number }"
+    "title_template": "Mookhyang - Dark Lady Ch${ number }"
   },
   "chapters": {
     "0": {
